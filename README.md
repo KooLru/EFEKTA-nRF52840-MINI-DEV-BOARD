@@ -1,6 +1,6 @@
 # EFEKTA-nRF52840-MINI-DEV-BOARD
 
-Based on nRF52832 (E73-2G4M08S1C).
+Based on nRF52840 (E73-2G4M08S1C).
 
 Compatible with pca10059 (Dongle) Board. Can be used in the development of Zigbee devices. (Sniffer, Coordinator, Router, End device).
 
