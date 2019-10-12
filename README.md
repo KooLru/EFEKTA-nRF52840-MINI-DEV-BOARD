@@ -28,9 +28,9 @@ OR
 
 4. SMD 3528 RGB LED Common Anode 20mA (RGB) - https://ali.ski/eXDx9
 
-5. Micro Button Tact Switch SMD 4Pin 3X4X2.5MM White( U2, U3) - https://ali.ski/EnyRm
+5. Micro Button Tact Switch SMD 4Pin 3X4X2.5MM White ( U2, U3) - https://ali.ski/EnyRm
 
-6. SMD SMT Slide Type Switch 3P (U4) - https://ali.ski/VCZCL
+6. SMD SMT 1X3 PIN single row MALE 2.54MM PITCH PIN Header Strip connector (U4) - https://ali.ski/0vm2G
 
 7. PRTR5V0U2X WR1 ESD protection diode SOT-143 (U5) - https://ali.ski/irIEA-
 
