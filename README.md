@@ -50,7 +50,7 @@ OR
 
 11. b. BLACK Battery Button Cell Holder Socket Case Black TBH-CR2032-15 (U7) - https://ali.ski/O4vRrM
 
-OR
+OR 
 
 11. c. WHITE SMT type CR2032 Coin Cell holder TBH-CR2032-15W (U7) - https://ali.ski/GeQV4A
 
