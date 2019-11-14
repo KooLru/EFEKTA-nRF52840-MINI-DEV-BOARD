@@ -4,9 +4,14 @@ Based on nRF52840 (E73-2G4M08S1C).
 
 Compatible with pca10059 (Dongle) Board. Can be used in the development of Zigbee devices. (Sniffer, Coordinator, Router, End device).
 
+#### If this project was useful to you, you can buy me a Cup of coffee :)
+
+PayPal: altigraph@yandex.com
+
+Yandex Money: 4100140180242
+
 More info at http://efektalab.com/mdb73
 
-Contact: hello@efektalab.com
 
 ---
 
