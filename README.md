@@ -12,6 +12,8 @@ Yandex Money: 4100140180242
 
 More info at http://efektalab.com/mdb73
 
+@ hello@efektalab.com
+
 
 ---
 
