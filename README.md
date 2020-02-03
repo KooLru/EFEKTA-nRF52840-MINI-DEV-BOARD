@@ -27,7 +27,11 @@ OR
 
 1. c. nRF 52840 E73-2G4M08S1C (U1) - https://ali.ski/c9UlL
 
-2. 32.768k Hz Crystal Oscillator 3x8mm (Y1) - https://ali.ski/MCWN0
+2. a. 32.768k Hz Crystal Oscillator 3x8mm (Y1) - https://ali.ski/MCWN0
+
+OR
+
+2. b. 32.768k Hz Crystal Oscillator 3x8mm (Y1) - https://ali.ski/d6rVO
 
 3. LED 1206 SMD (LED blue) - https://ali.ski/9i40BC
 
@@ -75,17 +79,19 @@ OR
 
 19. Capacitor 10nf 50V 0805 SMD (C9)  - https://ali.ski/dTykj
 
-20. 1210 Capacitor 100uf 10V (C10) - https://ali.ski/hRCu5
+20. 1210 Capacitor >100uf 10V (C10) - https://ali.ski/hRCu5
 
-21. 0805 SMD Inductor 10uh (L1) - https://ali.ski/8p4pg
+21. 6032 Capacitor 200uf 10V (C11) - https://ali.ski/PHserw
 
-22. 0805 SMD 1/8W chip resistor 6.8K (R1, R4  for blue) - https://ali.ski/xEIsqX
+22. 0805 SMD Inductor 10uh (L1) - https://ali.ski/8p4pg
 
-23. 0805 SMD 1/8W chip resistor 3K (R3  for red) - https://ali.ski/xEIsqX
+23. 0805 SMD 1/8W chip resistor 6.8K (R1, R4  for blue) - https://ali.ski/xEIsqX
 
-24. 0805 SMD 1/8W chip resistor 15K (R2  for green) - https://ali.ski/xEIsqX
+24. 0805 SMD 1/8W chip resistor 3K (R3  for red) - https://ali.ski/xEIsqX
 
-25. 0805 SMD 1/8W chip resistor 10K - https://ali.ski/xEIsqX
+25. 0805 SMD 1/8W chip resistor 15K (R2  for green) - https://ali.ski/xEIsqX
+
+26. 0805 SMD 1/8W chip resistor 10K - https://ali.ski/xEIsqX
  
 
 
